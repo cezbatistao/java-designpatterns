@@ -5,6 +5,7 @@ Exemplo de aplicação do pattern **Command**
 Para rodar a classe main basta executar o comando:
 ```bash
 mvn exec:java -Dstart-class=br.com.batistao.MainPortaoCommand
+```
 
 Os testes podem ser executados com o comando
 ```bash
