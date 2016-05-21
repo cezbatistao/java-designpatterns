@@ -7,4 +7,4 @@ Para rodar a classe main basta executar o comando:
 mvn exec:java -Dstart-class=br.com.batistao.MainBonusCommand
 ```
 
-Para mais detalhes verificar artigo: Design Pattern: Command - Seçao Bônus
+Para mais detalhes verificar artigo: [Design Pattern: Command - Seçao Bônus](https://cezbatistao.wordpress.com/2016/05/21/design-pattern-command#command-bonus)
