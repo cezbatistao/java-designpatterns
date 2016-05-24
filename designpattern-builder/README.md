@@ -19,7 +19,7 @@ mvn clean test
 
 Para visualizar o relatório basta acessar a página geranda no diretório:
 ```bash
-$WORKSPACE_HOME/designpattern-builder/build/spock-reports/index.html
+$WORKSPACE_HOME/java-designpatterns/designpattern-builder/build/spock-reports/index.html
 ```
 
 Para mais detalhes verificar artigo: [Design Pattern: Builder](https://cezbatistao.wordpress.com/2016/05/21/design-pattern-builder)

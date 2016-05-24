@@ -20,6 +20,7 @@
         <module>designpattern-builder</module>
         <module>designpattern-command</module>
         <module>designpattern-command-bonus</module>
+        <module>designpattern-strategy</module>
     </modules>
 
     <properties>
