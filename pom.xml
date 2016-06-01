@@ -18,6 +18,7 @@
     <modules>
         <module>designpattern-adapter</module>
         <module>designpattern-builder</module>
+        <module>designpattern-chain-of-responsibility</module>
         <module>designpattern-command</module>
         <module>designpattern-command-bonus</module>
         <module>designpattern-strategy</module>
