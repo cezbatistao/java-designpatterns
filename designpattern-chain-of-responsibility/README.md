@@ -17,4 +17,4 @@ Para visualizar o relatório basta acessar a página geranda no diretório:
 $WORKSPACE_HOME/java-designpatterns/designpattern-chain-of-responsibility/build/spock-reports/index.html
 ```
 
-Para mais detalhes verificar artigo: Design Pattern: Chain Of Responsibility
+Para mais detalhes verificar artigo: [Design Pattern: Chain Of Responsibility](https://cezbatistao.wordpress.com/2016/06/01/design-pattern-chain-of-responsibility)
