@@ -2,13 +2,13 @@
 
 ## Padrões de Criação:
 - Abstract Factory
-- Builder
+- [Builder](https://github.com/cezbatistao/java-designpatterns/tree/master/designpattern-builder)
 - Factory Method
 - Prototype
 - Singleton
 
 ## Padrões Estruturais:
-- Adapter
+- [Adapter](https://github.com/cezbatistao/java-designpatterns/tree/master/designpattern-adapter)
 - Bridge
 - Composite
 - Decorator
@@ -17,15 +17,15 @@
 - Proxy
 
 ## Padrões Comportamentais:
-- Chain of Responsibility
-- Command
+- [Chain of Responsibility](https://github.com/cezbatistao/java-designpatterns/tree/master/designpattern-chain-of-responsibility)
+- [Command](https://github.com/cezbatistao/java-designpatterns/tree/master/designpattern-command)
 - Interpreter
 - Iterator
 - Mediator
 - Memento
 - Observer
 - State
-- Strategy
+- [Strategy](https://github.com/cezbatistao/java-designpatterns/tree/master/designpattern-strategy)
 - Template Method
 - Visitor
 
